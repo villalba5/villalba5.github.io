@@ -10218,6 +10218,11 @@ header.masthead .masthead-heading {
   cursor: pointer;
   background-color: transparent;
 }
+.close-modal img{
+  width: 40%;
+}
+
+
 .portfolio-modal .close-modal:hover {
   opacity: 0.3;
 }
